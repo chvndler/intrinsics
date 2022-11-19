@@ -1,12 +1,10 @@
 @font-face {
-  font-family: "Font";
-  src: url("/fonts/Font-Regular.woff2") format("woff2"),
-    url("/fonts/Font-Regular.woff") format("woff");
+    font-family: "Font";
+    src: url("/fonts/Font-Regular.woff2") format("woff2"), url("/fonts/Font-Regular.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Font";
-  src: url("/fonts/Font-Bold.woff2") format("woff2"),
-    url("/fonts/Font-Bold.woff") format("woff");
-  font-weight: bold;
+    font-family: "Font";
+    src: url("/fonts/Font-Bold.woff2") format("woff2"), url("/fonts/Font-Bold.woff") format("woff");
+    font-weight: bold;
 }

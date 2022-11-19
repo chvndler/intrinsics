@@ -1,0 +1,27 @@
+
+
+{
+  "git.ignoreLimitWarning": true,
+  "files.autoSave": "onWindowChange",
+  "editor.fontSize": 10,
+  "editor.fontFamily": "Jetbrains Mono, monospace", // @JetBrains Mono font - https://www.jetbrains.com/lp/mono/
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Copilot Theme", // Copilot Theme - https://github.com/benjaminbenais/copilot-theme.git
+  "editor.formatOnPaste": true,
+  "window.zoomLevel": 0.6,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "git.ignoreLegacyWarning": true,
+  "git.postCommitCommand": "sync",
+  "git.ignoreMissingGitWarning": true
+}
