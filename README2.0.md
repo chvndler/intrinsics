@@ -1,6 +1,6 @@
 # README EXAMPLE
 
-![cover image](https://cool-image-here.com 'A cool description of image')
+![cover image](https://cool-image-here.com "A cool description of image")
 Lorem ipsum is so pretty.
 
 ## Project Stack
@@ -29,8 +29,8 @@ Lorem ipsum is so pretty.
    yarn dev
    ```
 
-
 ## Deployment
+
 ```
 $ vercel
 ```
@@ -39,9 +39,8 @@ $ vercel
 $ vercel --prod
 ```
 
-
 ## Things to Note
 
-- Things to Note*
+- Things to Note\*
 
 ---
